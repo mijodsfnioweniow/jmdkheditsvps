@@ -109,7 +109,7 @@ def get_progress_bar_string(pct):
 
 
 def get_readable_message():
-    msg = "<b>Powered By <a href="https://t.me/DhruvMirrorUpdates"><u>Dhruv Mirror Premium</u></a>\n</b>"
+    msg = '<b>Powered By <a href="https://t.me/DhruvMirrorUpdates"><u>Dhruv Mirror Premium</u></a>\n</b>'
     button = None
     STATUS_LIMIT = config_dict['STATUS_LIMIT']
     tasks = len(download_dict)
