@@ -647,7 +647,7 @@ button_name button_url
 Example:
 ```
 Master_❤️ https://github.com/anasty17
-Updates https://t.me/JMDKH_Team
+Updates https://t.me/DhruvMirrorUpdates
 ```
 - **Note**: If you want to add space in button name use `_` for add space
 -----
